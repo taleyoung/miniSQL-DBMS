@@ -14,17 +14,17 @@
 
 至少实现以下sql语句
 
-CREATE DATABASE   	创建数据库
-USE DATABASE 		选择数据库
-CREATE   TABLE		创建表
-SHOW  TABLES  		显示表名
-INSERT		 	插入元组
-SELECT 		 	查询元组
-UPDATE			更新元组
-DELETE			删除元组
-DROP	TABLE 		删除表
-DROP	DATABASE		删除数据库
-EXIT	 			退出系统
+1. CREATE DATABASE   	创建数据库
+2. USE DATABASE 		选择数据库
+3. CREATE   TABLE		创建表
+4. SHOW  TABLES  		显示表名
+5. INSERT		 	插入元组
+6. SELECT 		 	查询元组
+7. UPDATE			更新元组
+8. DELETE			删除元组
+9. DROP	TABLE 		删除表
+10. DROP	DATABASE		删除数据库
+11. EXIT	 			退出系统
 
 
 ## 项目实现大纲
